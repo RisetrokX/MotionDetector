@@ -1,4 +1,2 @@
-cv2
+opencv-python
 requests
-os
-time
